@@ -154,3 +154,12 @@ websockets==16.0
 widgetsnbextension==4.0.15
 wrapt==2.2.2
 yfinance==1.5.1
+numpy
+pandas
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+tensorflow
+yfinance
+jupyter
